@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'sinatra', '4.1.1'
 gem 'sinatra-contrib'
-gem 'ilyass_palindrome', '1.0.0'
+gem 'ilyass_palindrome', '1.1.0'
 
 gem 'puma', '6.6.0'
 gem 'rackup', '2.2.1'
