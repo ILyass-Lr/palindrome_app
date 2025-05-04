@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'sinatra/reloader' if development?
+require 'sinatra/reloader'  if development?
 require 'ilyass_palindrome'
 set :port, 4517
 
