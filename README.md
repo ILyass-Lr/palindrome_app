@@ -14,9 +14,6 @@ You enter either a `string` or a `number`, and the app detect if it can be read 
 
 
 
-Check it out at: 
-https://shrub-atom-telephone.glitch.me/
-
 ## Setup:
 To run this sample Sinatra app locally:
 1. Clone the projet to your local machine.
